@@ -27,3 +27,5 @@ C:\Users\DELL\source\repos\DIGINET.API\DIGINET.API\obj\Debug\net5.0\DIGINET.API.
 C:\Users\DELL\source\repos\DIGINET.API\DIGINET.API\obj\Debug\net5.0\ref\DIGINET.API.dll
 C:\Users\DELL\source\repos\DIGINET.API\DIGINET.API\obj\Debug\net5.0\DIGINET.API.pdb
 C:\Users\DELL\source\repos\DIGINET.API\DIGINET.API\obj\Debug\net5.0\DIGINET.API.genruntimeconfig.cache
+C:\Users\DELL\source\repos\DIGINET.API\DIGINET.API\bin\Debug\net5.0\DIGINET.CORE.dll
+C:\Users\DELL\source\repos\DIGINET.API\DIGINET.API\bin\Debug\net5.0\DIGINET.CORE.pdb

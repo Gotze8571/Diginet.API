@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\DIGINET.API\DIGINET.CORE\bin\Debug\net5.0\DIGINET.CORE.deps.json
+C:\Users\DELL\source\repos\DIGINET.API\DIGINET.CORE\bin\Debug\net5.0\DIGINET.CORE.dll
+C:\Users\DELL\source\repos\DIGINET.API\DIGINET.CORE\bin\Debug\net5.0\ref\DIGINET.CORE.dll
+C:\Users\DELL\source\repos\DIGINET.API\DIGINET.CORE\bin\Debug\net5.0\DIGINET.CORE.pdb
+C:\Users\DELL\source\repos\DIGINET.API\DIGINET.CORE\obj\Debug\net5.0\DIGINET.CORE.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\DIGINET.API\DIGINET.CORE\obj\Debug\net5.0\DIGINET.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\DIGINET.API\DIGINET.CORE\obj\Debug\net5.0\DIGINET.CORE.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\DIGINET.API\DIGINET.CORE\obj\Debug\net5.0\DIGINET.CORE.AssemblyInfo.cs
+C:\Users\DELL\source\repos\DIGINET.API\DIGINET.CORE\obj\Debug\net5.0\DIGINET.CORE.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\DIGINET.API\DIGINET.CORE\obj\Debug\net5.0\DIGINET.CORE.dll
+C:\Users\DELL\source\repos\DIGINET.API\DIGINET.CORE\obj\Debug\net5.0\ref\DIGINET.CORE.dll
+C:\Users\DELL\source\repos\DIGINET.API\DIGINET.CORE\obj\Debug\net5.0\DIGINET.CORE.pdb
