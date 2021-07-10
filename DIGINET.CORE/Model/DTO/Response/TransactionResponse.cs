@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace DIGINET.CORE.Model.DTO.Response
 {
-    public class OrderResponse
+    public class TransactionResponse
     {
-        
     }
 }

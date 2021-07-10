@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DIGINET.CORE.Model.DTO.Response
+namespace DIGINET.CORE.Interface.API
 {
-    public class OrderResponse
+    public interface IStatusCode
     {
-        
+        int GetStatusCode(string responseCode);
     }
 }

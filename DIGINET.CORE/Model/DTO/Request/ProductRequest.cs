@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DIGINET.CORE.Model.DTO.Response
+namespace DIGINET.CORE.Model.DTO.Request
 {
-    public class OrderResponse
+    public class ProductRequest
     {
-        
     }
 }
