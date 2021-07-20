@@ -8,8 +8,14 @@
     <Folder Include="Entity\" />
     <Folder Include="Helpers\" />
     <Folder Include="Models\API\" />
+    <Folder Include="Models\DTOs\Response\" />
+    <Folder Include="Models\DTOs\Request\" />
     <Folder Include="Services\" />
     <Folder Include="Repositories\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services" />
   </ItemGroup>
 
 </Project>
