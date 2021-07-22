@@ -14,9 +14,8 @@ namespace Diginet.Web.API.Controllers
     {
 
         [HttpGet]
-        public IEnumerable<WeatherForecast> GetOrder()
+        public IEnumerable<Order> GetOrder()
         {
-            
             return null;
         }
 
