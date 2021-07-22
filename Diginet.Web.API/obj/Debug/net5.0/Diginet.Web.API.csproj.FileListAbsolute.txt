@@ -1,3 +1,8 @@
+C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\obj\Debug\net5.0\Diginet.Web.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\obj\Debug\net5.0\Diginet.Web.API.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\obj\Debug\net5.0\Diginet.Web.API.AssemblyInfo.cs
+C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\obj\Debug\net5.0\Diginet.Web.API.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\obj\Debug\net5.0\Diginet.Web.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\bin\Debug\net5.0\appsettings.json
 C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\bin\Debug\net5.0\Diginet.Web.API.exe
@@ -11,13 +16,9 @@ C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\bin\Debug\net5.0\Microsof
 C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\bin\Debug\net5.0\Diginet.Domain.dll
+C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\bin\Debug\net5.0\Diginet.Domain.pdb
 C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\obj\Debug\net5.0\Diginet.Web.API.csproj.AssemblyReference.cache
-C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\obj\Debug\net5.0\Diginet.Web.API.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\obj\Debug\net5.0\Diginet.Web.API.AssemblyInfoInputs.cache
-C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\obj\Debug\net5.0\Diginet.Web.API.AssemblyInfo.cs
-C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\obj\Debug\net5.0\Diginet.Web.API.csproj.CoreCompileInputs.cache
-C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\obj\Debug\net5.0\Diginet.Web.API.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\obj\Debug\net5.0\Diginet.Web.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\obj\Debug\net5.0\staticwebassets\Diginet.Web.API.StaticWebAssets.Manifest.cache
 C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\obj\Debug\net5.0\staticwebassets\Diginet.Web.API.StaticWebAssets.xml
 C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\obj\Debug\net5.0\scopedcss\bundle\Diginet.Web.API.styles.css
@@ -27,3 +28,4 @@ C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\obj\Debug\net5.0\Diginet.
 C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\obj\Debug\net5.0\ref\Diginet.Web.API.dll
 C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\obj\Debug\net5.0\Diginet.Web.API.pdb
 C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\obj\Debug\net5.0\Diginet.Web.API.genruntimeconfig.cache
+C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\obj\Debug\net5.0\Diginet.Web.API.MvcApplicationPartsAssemblyInfo.cs

@@ -14,7 +14,7 @@ namespace Diginet.Web.API.Controllers
     public class OrderController : ControllerBase
     {
 
-        [HttpGet]
+        [HttpGet("order")]
         public IEnumerable<Order> GetOrder()
         {
             return null;

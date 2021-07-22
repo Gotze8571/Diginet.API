@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\obj\Release\net5.0\PubTmp\Out\Diginet.Web.API.exe
+C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\obj\Release\net5.0\PubTmp\Out\Diginet.Web.API.dll
+C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\obj\Release\net5.0\PubTmp\Out\Diginet.Web.API.deps.json
+C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\obj\Release\net5.0\PubTmp\Out\Diginet.Web.API.runtimeconfig.json
+C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\obj\Release\net5.0\PubTmp\Out\Diginet.Web.API.pdb
+C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\obj\Release\net5.0\PubTmp\Out\Diginet.Domain.dll
+C:\Users\DELL\source\repos\DIGINET.API\Diginet.Web.API\obj\Release\net5.0\PubTmp\Out\Diginet.Domain.pdb
