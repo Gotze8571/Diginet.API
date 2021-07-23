@@ -15,13 +15,13 @@ namespace Diginet.Web.API.Controllers
     {
 
         [HttpGet("order-detail")]
-        public IEnumerable<Order> GetOrderDetail()
+        public IEnumerable<OrderDetail> GetOrderDetail()
         {
             return null;
         }
 
         [HttpGet("order-master")]
-        public IEnumerable<Order> GetOrderMaster()
+        public IEnumerable<OrderMaster> GetOrderMaster()
         {
             return null;
         }

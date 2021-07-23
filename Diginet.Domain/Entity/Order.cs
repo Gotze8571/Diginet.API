@@ -8,5 +8,6 @@ namespace Diginet.Domain.Entity
 {
     public class Order
     {
+
     }
 }

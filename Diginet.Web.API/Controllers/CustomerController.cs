@@ -25,13 +25,13 @@ namespace Diginet.Web.API.Controllers
         }
 
         [HttpGet("customer-rank")]
-        public IEnumerable<CustomerLedger> GetCustomerRank()
+        public IEnumerable<CustomerRank> GetCustomerRank()
         {
             return null;
         }
 
         [HttpGet("customer-type")]
-        public IEnumerable<CustomerLedger> GetCustomerType()
+        public IEnumerable<CustomerType> GetCustomerType()
         {
             return null;
         }
