@@ -12,7 +12,7 @@ namespace Diginet.Web.API.Controllers
     [ApiController]
     public class TransactionController : ControllerBase
     {
-        [HttpGet("TransactionDetails")]
+        [HttpGet("transaction-details")]
         public IEnumerable<TransactionDetails> GetTransactionDetails()
         {
             return null;

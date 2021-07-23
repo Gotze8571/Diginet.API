@@ -12,12 +12,12 @@ namespace Diginet.Web.API.Controllers
     [ApiController]
     public class RankController : ControllerBase
     {
-        [HttpGet("Rank")]
+        [HttpGet("rank")]
         public IEnumerable<Rank> GetRank()
         {
             return null;
         }
-        [HttpGet("RankHistory")]
+        [HttpGet("rank-history")]
         public IEnumerable<Rank> GetRankHistory()
         {
             return null;

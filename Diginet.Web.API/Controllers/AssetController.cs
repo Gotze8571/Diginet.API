@@ -12,13 +12,13 @@ namespace Diginet.Web.API.Controllers
     [ApiController]
     public class AssetController : ControllerBase
     {
-        [HttpGet("AssetType")]
+        [HttpGet("assetType")]
         public IEnumerable<AssetType> GetProductAssetType()
         {
             return null;
         }
 
-        [HttpGet("AssetTypeRate")]
+        [HttpGet("assetTypeRate")]
         public IEnumerable<AssetTypeRate> GetProductAssetTypeRate()
         {
             return null;

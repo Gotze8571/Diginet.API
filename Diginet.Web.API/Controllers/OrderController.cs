@@ -14,13 +14,19 @@ namespace Diginet.Web.API.Controllers
     public class OrderController : ControllerBase
     {
 
-        [HttpGet("order")]
-        public IEnumerable<Order> GetOrder()
+        [HttpGet("order-detail")]
+        public IEnumerable<Order> GetOrderDetail()
         {
             return null;
         }
 
-        
+        [HttpGet("order-master")]
+        public IEnumerable<Order> GetOrderMaster()
+        {
+            return null;
+        }
+
+
 
     }
 }

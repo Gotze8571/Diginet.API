@@ -12,17 +12,19 @@ namespace Diginet.Web.API.Controllers
     [ApiController]
     public class ProductController : ControllerBase
     {
-        [HttpGet("Product")]
+        [HttpGet("product")]
         public IEnumerable<Product> GetProduct()
         {
             return null;
         }
-        [HttpGet("ProductAssetType")]
+
+        [HttpGet("product-asset-type")]
         public IEnumerable<ProductAssetType> GetProductAssetType()
         {
             return null;
         }
-        [HttpGet("ProductCountry")]
+
+        [HttpGet("product-country")]
         public IEnumerable<ProductCountry> GetProductCountry()
         {
             return null;

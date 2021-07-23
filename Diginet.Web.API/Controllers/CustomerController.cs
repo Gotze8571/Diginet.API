@@ -12,8 +12,26 @@ namespace Diginet.Web.API.Controllers
     [ApiController]
     public class CustomerController : ControllerBase
     {
-        [HttpGet]
+        [HttpGet("Customer")]
         public IEnumerable<Customer> GetCustomer()
+        {
+            return null;
+        }
+
+        [HttpGet("customer-ledger")]
+        public IEnumerable<CustomerLedger> GetCustomerLedger()
+        {
+            return null;
+        }
+
+        [HttpGet("customer-rank")]
+        public IEnumerable<CustomerLedger> GetCustomerRank()
+        {
+            return null;
+        }
+
+        [HttpGet("customer-type")]
+        public IEnumerable<CustomerLedger> GetCustomerType()
         {
             return null;
         }
