@@ -9,4 +9,3 @@ C:\Users\DELL\source\repos\DIGINET.API\Diginet.Domain\bin\Debug\net5.0\Diginet.D
 C:\Users\DELL\source\repos\DIGINET.API\Diginet.Domain\obj\Debug\net5.0\Diginet.Domain.dll
 C:\Users\DELL\source\repos\DIGINET.API\Diginet.Domain\obj\Debug\net5.0\ref\Diginet.Domain.dll
 C:\Users\DELL\source\repos\DIGINET.API\Diginet.Domain\obj\Debug\net5.0\Diginet.Domain.pdb
-C:\Users\DELL\source\repos\DIGINET.API\Diginet.Domain\obj\Debug\net5.0\Diginet.Domain.csproj.AssemblyReference.cache
