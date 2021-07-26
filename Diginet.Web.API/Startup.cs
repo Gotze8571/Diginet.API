@@ -1,4 +1,5 @@
 using Diginet.Domain.Data.Db;
+using Diginet.Web.API.Filters;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -33,6 +34,7 @@ namespace Diginet.Web.API
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Diginet.Web.API", Version = "v1" });
+                c.OperationFilter<CustomHeaderFilters.AddRequiredHeaderParameter>();
             });
 
             services.AddDbContext<DataContext>(options =>
