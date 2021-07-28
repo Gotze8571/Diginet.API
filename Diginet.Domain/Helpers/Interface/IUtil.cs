@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Diginet.Domain.Services
+namespace Diginet.Domain.Helpers.Interface
 {
-    public class OrderService
+    public interface IUtil
     {
+        int GetStatusCode(string responseCode);
     }
 }

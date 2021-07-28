@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Diginet.Domain.Models.DTOs
 {
-    public class CreateOrderMaster
+    public class OrderMasterDto
     {
         public int Customer_ID { get; set; }
         public string ExternalSystemOrder_ID { get; set; }

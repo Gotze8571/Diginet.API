@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Diginet.Domain.Models.DTOs
 {
-    public class CreateOrderDto
+    public class OrderDto
     {
         public int Order_ID { get; set; }
         public int Product_ID { get; set; }

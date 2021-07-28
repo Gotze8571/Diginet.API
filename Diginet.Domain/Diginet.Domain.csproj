@@ -7,11 +7,8 @@
   <ItemGroup>
     <Folder Include="Connected Services\" />
     <Folder Include="Data\FinacleData\" />
-    <Folder Include="Helpers\" />
-    <Folder Include="Models\API\" />
     <Folder Include="Models\DTOs\Response\" />
     <Folder Include="Models\DTOs\Request\" />
-    <Folder Include="Repositories\" />
   </ItemGroup>
 
   <ItemGroup>

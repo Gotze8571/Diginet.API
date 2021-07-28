@@ -1,7 +1,15 @@
 using Diginet.Domain.Data.Db;
+using Diginet.Domain.Helpers.Concrete;
+using Diginet.Domain.Helpers.Interface;
+using Diginet.Domain.Models.DTOs.Concrete;
+using Diginet.Domain.Repositories.Concrete;
+using Diginet.Domain.Repositories.Interface;
+using Diginet.Domain.Services;
+using Diginet.Domain.Services.Interface;
 using Diginet.Web.API.Filters;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -37,10 +45,23 @@ namespace Diginet.Web.API
                 c.OperationFilter<CustomHeaderFilters.AddRequiredHeaderParameter>();
             });
 
+            // Register Code First Migrations Dependencies
             services.AddDbContext<DataContext>(options =>
             options.UseSqlServer(
             Configuration.GetConnectionString("DiginetConnection"), b => b.MigrationsAssembly("Diginet.Domain")));
 
+            // Register Dapper Dependencies
+            services.Configure<AppSettings>(Configuration.GetSection("AppSettings"));
+
+            // Register Repositories
+            services.AddScoped<IOrderRepo, OrderRepository>();
+
+            //Register Services
+            services.AddScoped<IOrderService, OrderService>();
+
+            // Register Helpers
+            services.AddScoped<IUtil, Util>();
+            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
