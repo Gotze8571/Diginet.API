@@ -75,16 +75,6 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
-      },
-      "DIGINET.CORE/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
-        "compile": {
-          "bin/placeholder/DIGINET.CORE.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/DIGINET.CORE.dll": {}
-        }
       }
     }
   },
@@ -195,16 +185,11 @@
         "swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
-    },
-    "DIGINET.CORE/1.0.0": {
-      "type": "project",
-      "path": "../DIGINET.CORE/DIGINET.CORE.csproj",
-      "msbuildProject": "../DIGINET.CORE/DIGINET.CORE.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "DIGINET.CORE >= 1.0.0",
+      "C:\\Users\\DELL\\source\\repos\\DIGINET.API\\DIGINET.CORE\\DIGINET.CORE.csproj",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
@@ -282,5 +267,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\DELL\\source\\repos\\DIGINET.API\\DIGINET.CORE\\DIGINET.CORE.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\DELL\\source\\repos\\DIGINET.API\\DIGINET.CORE\\DIGINET.CORE.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }
